@@ -21,10 +21,8 @@ This is a personal bio page designed using **HTML**, **CSS**, and **Bootstrap**.
    ```bash
    git clone https://github.com/username/my-bio-page.git
 2. **Open the HTML file:**:
-   ```bash
   Navigate to the folder where you have the index.html file and open it in any modern browser.
 3. **Customization:**
-  ```bash
   Modify the index.html file to update the name, images, and other content to reflect your personal bio.
 
 ## Live Demo
